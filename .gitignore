@@ -1,0 +1,29 @@
+# Build folders
+x64/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+*.VC.db
+*.opendb
+*.VC.VC.opendb
+*.aps
+*.ncb
+*.log
+*.tlog
+
+# IntelliSense and temp data
+.vs/
+ipch/
+*.ipch
+*.vsldx
+
+# Backup or crash files
+*.bak
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
